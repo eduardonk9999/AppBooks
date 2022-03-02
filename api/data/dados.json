@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "id": 2,
+      "nome": "It A Coisa",
+      "autor": "Stephen King",
+      "role": 1
+    },
+    {
+      "id": 3,
+      "nome": "A Seleção",
+      "autor": "Kiera Cass",
+      "role": 3
+    },
+    {
+      "id": 3,
+      "nome": "Duna",
+      "autor": "Frank Herbert",
+      "role": 2
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "type": "Terror"
+    },
+    {
+      "id": 2,
+      "type": "Ficção"
+    },
+    {
+      "id": 3,
+      "type": "Romance"
+    }
+  ]
+}

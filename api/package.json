@@ -1,0 +1,15 @@
+{
+  "name": "graphqlapi",
+  "version": "1.0.0",
+
+  "scripts": {
+    "start": "nodemon -e js,json,graphql ./src/index.js"
+  },
+  "dependencies": {
+    "apollo-datasource-rest": "^3.5.1",
+    "apollo-server": "^3.6.3",
+    "graphql": "^16.3.0",
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.15"
+  }
+}
