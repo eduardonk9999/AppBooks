@@ -13,10 +13,28 @@
       "role": 3
     },
     {
-      "id": 3,
+      "id": 4,
       "nome": "Duna",
       "autor": "Frank Herbert",
       "role": 2
+    },
+    {
+      "nome": "test",
+      "autor": "teste",
+      "role": [],
+      "id": 5
+    },
+    {
+      "nome": "test",
+      "autor": "teste",
+      "role": 1,
+      "id": 6
+    },
+    {
+      "nome": "test",
+      "autor": "teste",
+      "role": 1,
+      "id": 7
     }
   ],
   "roles": [

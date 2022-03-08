@@ -4,6 +4,7 @@
 ### Rodar API GraphQL
 #npm install
 #npx json-server --watch api/data/dados.json
+#npm start
 
 <br />
 
